@@ -1,0 +1,12 @@
+body{
+    font-family: Inter, sans-serif !important;
+    margin: 0 auto !important;
+    position: unset !important;
+    padding: 50px;
+}
+
+@media (min-width: 1200px) {
+    body{
+        width: 600px !important;
+    }
+}
