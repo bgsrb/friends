@@ -4,6 +4,6 @@ body{
     line-height: 80px;
 }
 
-font {
-    font-size: small;
+body, p, font {
+    font-size: 12px;
 }
