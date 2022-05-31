@@ -1,6 +1,5 @@
 body{
-    font-family: Inter, sans-serif !important;
-    margin: 0 auto !important;
-    position: unset !important;
+    font-family: Calibri, Helvetica, Arial, sans-serif;
     padding: 50px;
+    line-height: 80px;
 }
