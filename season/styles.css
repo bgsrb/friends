@@ -5,10 +5,5 @@ body{
 }
 
 p {
-    font-size: 13px;
-}
-@media (min-width: 1200px) {
-    body{
-        width: 600px !important;
-    }
+    font-size: 12px;
 }
