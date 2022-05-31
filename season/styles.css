@@ -4,6 +4,9 @@ body{
     line-height: 80px;
 }
 
+p {
+    font-size: 14px;
+}
 @media (min-width: 1200px) {
     body{
         width: 600px !important;
