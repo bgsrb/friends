@@ -22,3 +22,12 @@ color: slategray;
 html {
 background : black;
 }
+
+.scene {
+    text-align: center;
+    color: darkgrey;
+    background: darkslategray;
+}
+h1 {
+    color: gainsboro;
+}
