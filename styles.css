@@ -13,10 +13,7 @@ p{
 color : gray;
 
 }
-body{
-margin: 0 auto;
-width:460px
-}
+body{width:460px;margin: 0 auto;position: inherit;}
 
 strong {
 color: slategray;
