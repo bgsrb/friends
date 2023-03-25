@@ -2,8 +2,20 @@ body{
     font-family: Calibri, Helvetica, Arial, sans-serif;
     padding: 20px;
     margin:  0 auto;
+    background : black;
 }
 
 body, p, font {
-    font-size: 14px;
+    font-size: 16px;
+}
+p{
+    line-height: 28px;
+}
+
+strong {
+color : whitesmoke;
+}
+
+html {
+background : black;
 }
