@@ -1,5 +1,9 @@
 body{
     font-family: Calibri, Helvetica, Arial, sans-serif;
-    padding: 50px;
-    line-height: 80px;
+    padding: 20px;
+    margin:  0 auto;
+}
+
+body, p, font {
+    font-size: 14px;
 }
