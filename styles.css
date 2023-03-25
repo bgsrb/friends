@@ -10,10 +10,16 @@ body, p, font {
 }
 p{
     line-height: 28px;
+color : gray;
+
+}
+body{
+margin: 0 auto;
+width:460px
 }
 
 strong {
-color : whitesmoke;
+color: slategray;
 }
 
 html {
