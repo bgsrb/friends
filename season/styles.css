@@ -2,7 +2,7 @@ body{
     font-family: Calibri, Helvetica, Arial, sans-serif;
     padding: 20px;
     margin:  0 auto;
-    background : black;
+    background: #202023;
 }
 
 body, p, font {
@@ -10,12 +10,10 @@ body, p, font {
     line-height: 2;
 }
 p{
-    color : gray;
+    color: darkgrey;
 }
 
-strong {
-color: slategray;
-}
+strong {color: saddlebrown;}
 
 html {
 background : black;
